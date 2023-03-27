@@ -4,7 +4,6 @@ C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_Hello
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.runtimeconfig.dev.json
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.dll
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.pdb
-C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.AssemblyInfo.cs
