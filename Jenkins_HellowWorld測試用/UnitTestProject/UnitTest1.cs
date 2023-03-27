@@ -15,7 +15,7 @@ namespace UnitTestProject
             {
                 Console.SetOut(sw);
                 Jenkins_HellowWorld´ú¸Õ¥Î.Program.Main();
-                throw new Exception("error");
+          
                 var result = sw.ToString().Trim();
                 Assert.AreEqual(Expected, result);
             }
