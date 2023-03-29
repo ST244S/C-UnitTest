@@ -6,7 +6,7 @@ namespace Jenkins_HellowWorld測試用
     {
         public  static void Main()
         {
-            Console.WriteLine("Hello World! form Thetips4you");
+            Console.WriteLine("Hello World! 123");
         }
     }
 }

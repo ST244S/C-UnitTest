@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkins_HellowWorld測試用", "Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用.csproj", "{836F1DC2-3F52-4C31-9DC4-0EF8A1ED9B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jenkins_HellowWorld測試用", "Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用.csproj", "{836F1DC2-3F52-4C31-9DC4-0EF8A1ED9B42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{C39D4B30-F19E-4B2C-AE5E-03412FE1A0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{C39D4B30-F19E-4B2C-AE5E-03412FE1A0B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
