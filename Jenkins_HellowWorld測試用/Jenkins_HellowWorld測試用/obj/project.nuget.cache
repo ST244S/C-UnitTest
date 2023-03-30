@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "RUp8dtzFWJLWU6qh8sSSdldBSUNZzgU164DXXSw5i0RQAY+9DwFkyJ4rK6STz4LtORLF4inl6IYfyWreoN+aLg==",
+  "dgSpecHash": "OzwHZNQ2YVlBlRQwI/xiql0aHOrcm27L4M22ftSBDqnkPzTDD2lhzrI0uJ/vkVvbyVDTmcd+P5zVnZdNiLgEhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
