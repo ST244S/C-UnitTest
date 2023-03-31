@@ -1078,6 +1078,10 @@
         }
       },
       "Jenkins_HellowWorld測試用/1.0.0": {
+        "dependencies": {
+          "MSTest.TestAdapter": "2.2.3",
+          "MSTest.TestFramework": "2.2.3"
+        },
         "runtime": {
           "Jenkins_HellowWorld測試用.dll": {}
         }

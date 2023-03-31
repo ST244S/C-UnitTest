@@ -1664,6 +1664,10 @@
       "Jenkins_HellowWorld測試用/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MSTest.TestAdapter": "2.1.2",
+          "MSTest.TestFramework": "2.1.2"
+        },
         "compile": {
           "bin/placeholder/Jenkins_HellowWorld測試用.dll": {}
         },
@@ -6136,11 +6140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\UnitTestProject\\UnitTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\UnitTestProject\\UnitTestProject.csproj",
       "projectName": "UnitTestProject",
-      "projectPath": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\UnitTestProject\\UnitTestProject.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\UnitTestProject\\UnitTestProject.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\UnitTestProject\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\UnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6161,8 +6165,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj"
+            "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj"
             }
           }
         }
