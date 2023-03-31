@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj": {}
+    "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj": {
+    "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj",
         "projectName": "Jenkins_HellowWorld測試用",
-        "projectPath": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\c#Jenkins測試\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\新增資料夾 (2)\\repas\\Jenkins_HellowWorld測試用\\Jenkins_HellowWorld測試用\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,20 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.5.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -65,6 +53,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }

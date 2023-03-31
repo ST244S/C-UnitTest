@@ -12,3 +12,17 @@ C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_Hello
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.pdb
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.genruntimeconfig.cache
 C:\Users\user\Desktop\c#Jenkins測試\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.exe
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.deps.json
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.runtimeconfig.json
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.runtimeconfig.dev.json
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.dll
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\bin\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.AssemblyInfo.cs
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.dll
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\repas\Jenkins_HellowWorld測試用\Jenkins_HellowWorld測試用\obj\Debug\netcoreapp3.1\Jenkins_HellowWorld測試用.genruntimeconfig.cache
